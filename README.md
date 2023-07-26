@@ -5,6 +5,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color:linear-gradient(90deg, rgba(93,224,230,1) 0%, rgba(0,212,255,1) 100%)&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Verners+Grikitis;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vernersgrikitis/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
+
 As a passionate software developer 💻, my primary focus lies in Java,
 and mastering the Spring Boot framework.
 My passion for continuous growth as a programmer drives me to engage in diverse projects that challenge me daily.
