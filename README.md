@@ -1,4 +1,5 @@
-![banner] (https://www.canva.com/design/DAFpvPxmdmU/q7-EGIQ566mIH7KXFHRlfw/edit?utm_content=DAFpvPxmdmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![banner]![Black Minimalist Content Creator LinkedIn Banner](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/70444158-f216-4b1e-b007-c0628336db4d)
+
 
 ### Hi there 👋
 
