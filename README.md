@@ -1,3 +1,5 @@
+![banner] (https://www.canva.com/design/DAFpvPxmdmU/q7-EGIQ566mIH7KXFHRlfw/edit?utm_content=DAFpvPxmdmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Hi there 👋
 
 I'am Verners Grikitis.
