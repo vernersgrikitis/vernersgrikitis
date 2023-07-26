@@ -6,6 +6,8 @@ As a passionate software developer 💻, my primary focus lies in Java,
 and mastering the Spring Boot framework.
 My passion for continuous growth as a programmer drives me to engage in diverse projects that challenge me daily.
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 https://www.linkedin.com/in/vernersgrikitis
 
 ### 💻 Check Out My Repos ⬇️
