@@ -1,4 +1,4 @@
-![Black Minimalist Content Creator LinkedIn Banner](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/bc9974b6-41bf-49d6-ac4a-315125862b5d)
+![istais](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/0842bbf6-6980-4566-b20c-b60a15ae396e)
 
 ### Hi there 👋 I'am Verners Grikitis.
 
