@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/vernersgrikitis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+  <a href="https://www.linkedin.com/in/vernersgrikitis/">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
+  </a>
 </div>
 
 As a passionate software developer 💻, my primary focus lies in Java,
