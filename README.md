@@ -1,4 +1,4 @@
-![istais](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/0842bbf6-6980-4566-b20c-b60a15ae396e)
+![cerams ka ir](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/6a3f7667-c1a9-4d6d-b3c6-139f92869cea)
 
 ### Hi there 👋 I'am Verners Grikitis.
 
