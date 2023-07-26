@@ -2,7 +2,7 @@
 
 
 <div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=90°: #5de0e6, #004aad&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Verners+Grikitis;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=5de0e6&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Verners+Grikitis;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 </div>
 
 As a passionate software developer 💻, my primary focus lies in Java,
