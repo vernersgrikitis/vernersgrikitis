@@ -1,4 +1,4 @@
-![banner]![Black Minimalist Content Creator LinkedIn Banner](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/70444158-f216-4b1e-b007-c0628336db4d)
+![Black Minimalist Content Creator LinkedIn Banner](https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/70444158-f216-4b1e-b007-c0628336db4d)
 
 
 ### Hi there 👋
