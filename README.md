@@ -4,7 +4,7 @@
 
 <div id="banner" align="center">
   <a href="https://www.linkedin.com/in/vernersgrikitis" target="_blank">
-        <img src="[image.jpg]https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/6a3f7667-c1a9-4d6d-b3c6-139f92869cea" alt="banner">
+        <img src="https://github.com/vernersgrikitis/vernersgrikitis/assets/127933614/6a3f7667-c1a9-4d6d-b3c6-139f92869cea" alt="banner">
     </a>
 </div>
 
