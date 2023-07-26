@@ -7,7 +7,7 @@ and mastering the Spring Boot framework.
 My passion for continuous growth as a programmer drives me to engage in diverse projects that challenge me daily.
 
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(vernersg@gmail.com))
 
 
 https://www.linkedin.com/in/vernersgrikitis
